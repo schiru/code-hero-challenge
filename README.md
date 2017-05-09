@@ -2,10 +2,10 @@
 
 In this repo you will find several challenges for Ruby, Javascript and SQL:
 
-- [Array-Sort](./tree/master/array-sort) - Sorting an array of integers in a strange way (Ruby || Javascript)
-- [Math-With-Functions](./tree/master/javascript/math-with-functions) - Doing calculations with functions only (Javascript)
-- [Array-Sum-Pairs](./tree/master/javascript/array-sum-pairs) - Finding pairs of integers in an array (Javascript)
-- [Revenue-Query](./tree/master/sql/revenue-query) - Writing a query to find the best performing day in terms of revenue (SQL)
+- [Array-Sort](./array-sort) - Sorting an array of integers in a strange way (Ruby || Javascript)
+- [Math-With-Functions](./javascript/math-with-functions) - Doing calculations with functions only (Javascript)
+- [Array-Sum-Pairs](./javascript/array-sum-pairs) - Finding pairs of integers in an array (Javascript)
+- [Revenue-Query](./sql/revenue-query) - Writing a query to find the best performing day in terms of revenue (SQL)
 
 ## Submitting your Solution
 
