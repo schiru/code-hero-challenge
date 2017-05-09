@@ -1,0 +1,21 @@
+# Array-Sum-Pairs Challenge
+
+In this challenge, you need to implement a function that receives an array of integers (both positive and negative) and returns the first pair of integers that add up to form a given sum.
+
+As an example:
+
+```javascript
+getPairs([11, 3, 7, 5], 10); // Must return [3, 7]
+```
+
+## Notes
+
+- If no valid pair of integers can be found, return `undefined`
+- Your implementation must work for several different arrays of variadic length
+
+## Testing
+
+- Build your solution in `index.js`
+- Run `npm install` or `yarn install`
+- Run `npm test` or `yarn test`
+- No Errors? Go ahead and submit a Pull Request!
