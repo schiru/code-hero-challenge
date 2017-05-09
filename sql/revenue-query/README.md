@@ -1,4 +1,4 @@
-# Revenue querying
+# Revenue-Query Challenge
 
 ```sql
 DESCRIBE payments;

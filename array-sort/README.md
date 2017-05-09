@@ -27,5 +27,5 @@ Meaning the solution would be:
 
 ## Testing (Ruby)
 
-- Run `ruby -Ilib:test array-sort/test.rb `
+- Run `ruby -Ilib:test array-sort/test.rb`
 - No Errors? Go ahead and submit a Pull Request!
