@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
