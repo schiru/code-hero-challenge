@@ -16,4 +16,4 @@ If somebody else has beaten you to it, you will still win a free MeisterLabs T-S
 
 ## P.S.
 
-Like to solve these kinds of problems on a daily basis? If so, we're hiring! :rocket:
+Like to solve these kinds of problems on a daily basis? If so, [we're hiring](https://www.mindmeister.com/jobs)! :rocket:
