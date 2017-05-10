@@ -6,7 +6,6 @@ In this repo you will find several challenges for Ruby, Javascript and SQL:
 - [Math-With-Functions](./javascript/math-with-functions) - Doing calculations with functions only (Javascript)
 - [Array-Sum-Pairs](./javascript/array-sum-pairs) - Finding pairs of integers in an array (Javascript)
 - [Largest-Palindrome](./ruby/largest-palindrome) - Finding the largest palindromic number made from the product of any amount of at least 2 numeric arguments (Ruby)
-- [Revenue-Query](./sql/revenue-query) - Writing a query to find the best performing day in terms of revenue (SQL)
 
 ## Submitting your Solution
 
