@@ -16,7 +16,7 @@ getPairs([11, 3, 7, 5], 10); // Must return [3, 7]
 
 ## Winner
 
-- The Winner will be the one that can submit the most performant version until until Friday 2pm CET
+- The Winner will be the one that can submit the most performant version until Friday 2pm CET
 
 ## Testing
 
