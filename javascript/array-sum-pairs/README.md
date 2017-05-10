@@ -12,6 +12,11 @@ getPairs([11, 3, 7, 5], 10); // Must return [3, 7]
 
 - If no valid pair of integers can be found, return `undefined`
 - Your implementation must work for several different arrays of variadic length
+- Your implementation will also run against an array of 5.000.000 integers
+
+## Winner
+
+- The Winner will be the one that can submit the most performant version until until Friday 2pm CET
 
 ## Testing
 

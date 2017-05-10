@@ -41,14 +41,17 @@ const testData = [
         array: [5, 9, 13, -3],
         sum: 10,
         solution: [13, -3]
+    },
+    {
+        array: require('./large-test-data'),
+        sum: 796,
+        solution: [398, 398]
     }
 ];
 
 testData.forEach(function(test) {
     assert.deepEqual(
         getPairs(test.array, test.sum),
-        test.solution,
-        `getPairs(${JSON.stringify(test.array)}, ${test.sum})`
+        test.solution
     );
 });
-
