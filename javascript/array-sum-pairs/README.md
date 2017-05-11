@@ -5,7 +5,7 @@ In this challenge, you need to implement a function that receives an array of in
 As an example:
 
 ```javascript
-getPairs([11, 3, 7, 5], 10); // Must return [3, 7]
+getPairs([3, 4, 7, 6], 10); // Must return [3, 7]
 ```
 
 ## Notes
